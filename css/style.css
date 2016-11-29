@@ -1,136 +1,36 @@
-/* Styles go here */
-
-h1,
-#home.p {
-  text-transform: uppercase;
+body {
+    font-family: sans-serif;
+    padding-top: 70px;
+    text-align: center;
 }
 
-h1,
+hr {
+    height: 1px;
+    width: 50%;
+    color: #000;
+    background-color: #000;
+}
+
 h2 {
-  text-align: center;
+    text-transform: uppercase;
 }
 
-/* Menu overview. */
+/* Home*/
 
-.menuItems {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  
+
+/* Portfolio */
+li {
+    list-style: none;
+    margin: 2px;
 }
 
-nav li{
-  display: inline;
-}
 
+
+
+/* About */
 #thatsMe {
   width:100px;
   height: 100px;
 }
 
-
-/* Portfolio */
-
-#projectGrid {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0;
-  font-size: 0; /* to avoid unwanted gaps between the cells. Chante the font in .projectGridText back to normal font size */
-  list-style: none;
- background-color: #ccc;
-}
-#projectGrid li {
-  display: inline-block;
-  *display: inline; /*For IE6 - IE7 */
-  width: 25%;
-  vertical-align: middle;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-/* The wrapper for each item */
-.projectGridCell {
-  /* margin: 12px;
-  box-shadow: 0 0 6px rgba(0,0,0,0.3); */
-  display: block;
-  position: relative;
-  overflow: hidden;
-}
-
-/* project img layer */
-.projectGridImg {
-  display: block;
-  width: 100%;
-  height: auto;
-  transform: scale(1);
-  transition: all 1s;
-}
-
-#projectGrid li: hover .projectGridImg {
-  transform:scale(1.05);
-}
-
-/* Overlay layer */
-.projectGridOverlay {
-  position: absolute;
-  display: block;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  margin: auto;
-  background: #2695ba no-repeat center 20%;
-  background-size: 50px 50px;
-  opacity: 0;
-  filter: alpha(opacity=0); /*For IE6 - IE8 */
-  transition: all 0.6s;
-}
-
-#projectGrid li:hover .projectGridOverlay {
-  opacity: 0.8;
-}
-
-/* Captions */
-.projectGridText {
-  display: block;
-  padding: 0 30px;
-  box-sizing: border-box;
-  position: absolute;
-  left: 0;
-  width: 100%;
-  text-align: center;
-  text-transform: captialize;
-  font-size: 14px;
-  font-weight: bold;
-  font-family: 'Oswald', sans-serif;
-  font-weight: normal;
-  top: 40%;
-  color: white;
-  opacity: 0;
-  transform: translateY(-20px);
-  transition: all .3s;
-}
-
-#projectGrid li:hover .projectGridText {
-  transform: translateY(0px);
-  opacity: 0.9;
-}
-
-@media (max-width:9000px) {
-  #projectGrid li {
-    width:25%;
-  }
-}
-
-@media (max-width: 700px) {
-  #projectGrid li {
-    width: 33%;
-  }
-}
-
-@media (max-width: 550px) {
-  #projectGrid li {
-    width: 50%;
-  }
-}
+/* Contact */

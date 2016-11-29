@@ -16,7 +16,9 @@ Design | CSS3 | Bootstrap | Responsive Design
 
 ### Projects
 
-Tic Tac Toe Game | [project](project link) | [source code](https://github.com/Renestl/Tic-Tac-Toe-Game) | Project Description. Built using HTML, CSS, JavaScript
+Simon Game | [project](http://codepen.io/renestl/full/ORdNKZ) | [source code](https://github.com/Renestl/Simon-Game) | Built using HTML, CSS, JavaScript
+
+Tic Tac Toe Game | [project](http://codepen.io/renestl/full/WxzPmX) | [source code](https://github.com/Renestl/Tic-Tac-Toe-Game) | Project Description. Built using HTML, CSS, JavaScript
 
 Pomodoro Clock | [project](http://codepen.io/renestl/full/rLapXw/) | [source code](https://github.com/Renestl/fcc-projects/tree/master/pomodoro-clock) | Built using HTML, CSS, JavaScript
 
@@ -27,3 +29,15 @@ Local Weather | [project](http://codepen.io/renestl/full/MKdxMw/) | [source code
 Random Quote Generator | [project](http://codepen.io/renestl/full/OyjYMQ/) | [source code](https://github.com/Renestl/fcc-projects/tree/master/random-quote-generator) | Built using HTML, CSS, JavaScript
 
 Wikipedia Viewer | [project](http://codepen.io/renestl/full/PNYNGv/) | [source code](https://github.com/Renestl/fcc-projects/tree/master/wikipedia-viewer) | Built using HTML, CSS, JavaScript
+
+
+### Attribution
+
+This portfolio uses jQuery, Bootstrap, and Font Awesome.
+
+The images used are Copyright CC0 - public domain and were created by:
+
+[Luis Llerena](https://unsplash.com/@albertosaure) ~~ https://unsplash.com/photos/6cOUbEdwG24
+
+They were downloaded from:
+[Unsplash]() & [Pixel]()
