@@ -19,12 +19,11 @@ h2 {
 
 
 /* Portfolio */
-li {
+
+#portfolio li {
     list-style: none;
-    margin: 2px;
+    margin: 10px 0px;
 }
-
-
 
 
 /* About */
