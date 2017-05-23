@@ -15,8 +15,19 @@ h2 {
     text-transform: uppercase;
 }
 
-/* Home*/
+/* General */
+.ab, .pt, .ct {
+    margin: 5% 0;
+}
 
+/* About */
+.about-me {
+    display: flex;
+    justify-content: space-around;
+}
+.about-me img {
+    order: 2;
+}
 
 /* Portfolio */
 
