@@ -1,6 +1,6 @@
 # Jennifer Currie | Front End Developer | Portfolio
 
-###### GitHub: [Renestl](https://github.com/Renestl) | LinkedIn: [Jennifer R Currie](https://www.linkedin.com/in/jennifer-currie-mba-rhia-5a89755) | Twitter: [@robinskrizan](https://twitter.com/RobinSKrizan)
+###### GitHub: [Renestl](https://github.com/Renestl) | LinkedIn: [Jennifer R Currie](https://www.linkedin.com/in/jennifer-currie-mba-rhia-5a89755)
 
 ### Profile
 
@@ -34,10 +34,3 @@ Wikipedia Viewer | [project](http://codepen.io/renestl/full/PNYNGv/) | [source c
 ### Attribution
 
 This portfolio uses jQuery, Bootstrap, and Font Awesome.
-
-The images used are Copyright CC0 - public domain and were created by:
-
-[Luis Llerena](https://unsplash.com/@albertosaure) ~~ https://unsplash.com/photos/6cOUbEdwG24
-
-They were downloaded from:
-[Unsplash](https://unsplash.com/) & [Pixel]()
