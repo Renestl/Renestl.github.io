@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Simon Game",
+		"image": "img/simon.jpg",
+		"website": "https://renestl.github.io/Simon-Game/",
+		"imgAlt": "",
+		"technology": ""
+	},
+	{
+		"name": "Get Me There",
+		"image": "img/getMeThere.jpg",
+		"website": "",
+		"imgAlt": "",
+		"technology": ""
+	},
+	{
+		"name": "Tic Tac Toe Game",
+		"image": "img/tictactoe.jpg",
+		"website": "",
+		"imgAlt": "",
+		"technology": ""
+	},
+	{
+		"name": "JavaScript Calculator",
+		"image": "img/calculator.jpg",
+		"website": "http://codepen.io/renestl/full/mVaZOo/",
+		"imgAlt": "",
+		"technology": ""
+	},
+	{
+		"name": "Pomodoro Timer",
+		"image": "img/pomodoro.jpg",
+		"website": "",
+		"imgAlt": "",
+		"technology": ""
+	}
+	// {
+	// 	"name": "",
+	// 	"image": "",
+	// 	"website": "",
+	// 	"imgAlt": "",
+	// 	"technology": ""
+	// },
+	// {
+	// 	"name": "",
+	// 	"image": "",
+	// 	"website": "",
+	// 	"imgAlt": "",
+	// 	"technology": ""
+	// },
+	// {
+	// 	"name": "",
+	// 	"image": "",
+	// 	"website": "",
+	// 	"imgAlt": "",
+	// 	"technology": ""
+	// },
+	// {
+	// 	"name": "",
+	// 	"image": "",
+	// 	"website": "",
+	// 	"imgAlt": "",
+	// 	"technology": ""
+	// }
+	
+]
