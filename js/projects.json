@@ -2,7 +2,9 @@
 	{
 		"name": "Simon Game",
 		"image": "img/simon.jpg",
-		"website": "https://renestl.github.io/Simon-Game/"
+		"website": "https://renestl.github.io/Simon-Game/",
+		"imgAlt": "electronic simon says game",
+		"technology": "['devicons-html5', 'devicons-css3','devicons-javascript_badge']"
 	},
 	{
 		"name": "Get Me There",
