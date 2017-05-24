@@ -20,9 +20,9 @@ $(document).ready(function() {
 											</a>
 										</div>
 										<div class="card-back">
-											<h3>${val.name}Name</h3>
-											<span class="projectGridText">${val.technology}Tech</span>
-											<span class="projectGridText2">${val.website}</span>
+											<h3>${val.name}</h3>
+											<p class="projectGridText">${val.technology}</p>
+											<p class="projectGridText2">${val.website}</p>
 										</div>
 									</div>
 								</li>
