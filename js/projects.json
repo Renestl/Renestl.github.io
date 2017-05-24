@@ -1,66 +1,51 @@
 [
 	{
+		"name": "FCC Camper Leaderboard",
+		"image": "img/camper-leaderboard.jpg",
+		"website": "http://renestl-camper-leaderboard.surge.sh/",
+		"imgAlt": "Camper leaderboard for freeCodeCamp",
+		"technology": "Angular, Angular Material"
+	},
+	{
+		"name": "Cake Project",
+		"image": "img/cake-project.jpg",
+		"website": "https://renestl.github.io/cake-project/",
+		"imgAlt": "Cake store",
+		"technology": "HTML, CSS, jQuery"
+	},
+	{
 		"name": "Simon Game",
 		"image": "img/simon.jpg",
 		"website": "https://renestl.github.io/Simon-Game/",
-		"imgAlt": "",
-		"technology": ""
+		"imgAlt": "Electronic simon says game",
+		"technology": "HTML, CSS, JavaScript, jQuery"
 	},
 	{
 		"name": "Get Me There",
 		"image": "img/getMeThere.jpg",
-		"website": "",
-		"imgAlt": "",
-		"technology": ""
+		"website": "http://codepen.io/renestl/full/mVLQEp/",
+		"imgAlt": "Travel website",
+		"technology": "HTML, Bootstrap"
 	},
 	{
 		"name": "Tic Tac Toe Game",
 		"image": "img/tictactoe.jpg",
-		"website": "",
-		"imgAlt": "",
-		"technology": ""
+		"website": "http://codepen.io/renestl/full/WxzPmX/",
+		"imgAlt": "Classic tic-tac-toe game",
+		"technology": "HTML, CSS, JavaScript"
+	},
+	{
+		"name": "Pomodoro Timer",
+		"image": "img/pomodoro.jpg",
+		"website": "http://codepen.io/renestl/full/rLapXw/",
+		"imgAlt": "Another take on the pomodoro timer",
+		"technology": "HTML, CSS, JavaScript"
 	},
 	{
 		"name": "JavaScript Calculator",
 		"image": "img/calculator.jpg",
 		"website": "http://codepen.io/renestl/full/mVaZOo/",
-		"imgAlt": "",
-		"technology": ""
-	},
-	{
-		"name": "Pomodoro Timer",
-		"image": "img/pomodoro.jpg",
-		"website": "",
-		"imgAlt": "",
-		"technology": ""
-	}
-	// {
-	// 	"name": "",
-	// 	"image": "",
-	// 	"website": "",
-	// 	"imgAlt": "",
-	// 	"technology": ""
-	// },
-	// {
-	// 	"name": "",
-	// 	"image": "",
-	// 	"website": "",
-	// 	"imgAlt": "",
-	// 	"technology": ""
-	// },
-	// {
-	// 	"name": "",
-	// 	"image": "",
-	// 	"website": "",
-	// 	"imgAlt": "",
-	// 	"technology": ""
-	// },
-	// {
-	// 	"name": "",
-	// 	"image": "",
-	// 	"website": "",
-	// 	"imgAlt": "",
-	// 	"technology": ""
-	// }
-	
+		"imgAlt": "A JavaScript Calculator",
+		"technology": "HTML, CSS, JavaScript"
+	}	
 ]
