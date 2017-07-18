@@ -102,28 +102,13 @@ hr {
 }
 
 @media (min-width: 500px) {
-    /* About */
-    .about-me {
-    //     display: flex;
-    //     justify-content: space-around;
-        color: pink;
+    /* Portfolio */
+    #portfolio li {
+        margin: 10px 0px;
     }
-    .about-me img {
-        order: 2;
-    }
-    #thatsMe {
-    width:150px;
-    height: 150px;
-    }
-    .about-intro {
-        text-align: left;
-        font-size: 1.25em;
-    }
-    .frameworks {
-        margin-top: 5%;
-    }
-    .devicons {
-        font-size: 4em;
+    .flip-container, .card-front, .card-back {
+        width: 550px;
+        height: 300px;
     }
 }
 
