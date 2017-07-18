@@ -25,6 +25,12 @@ hr {
     margin-bottom: 40px;
 }
 
+.container-fluid {
+    max-width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* About */
 .about-me img {
     margin-bottom: 30px;
@@ -137,105 +143,15 @@ hr {
         justify-content: space-around;
     }
 
+    .col-md-4 {
+        padding-left: 50px;
+        padding-right: 0px;
+    }
+
 }
 
-@media (min-width: 800px) {
-    /* About */
-    // .about-me {
-    //     display: flex;
-    //     justify-content: space-around;
-    //     color: green;
-    // }
-    // .about-me img {
-    //     order: 2;
-    // }
-    // #thatsMe {
-    // width:150px;
-    // height: 150px;
-    // }
-    // .about-intro {
-    //     text-align: left;
-    //     font-size: 1.25em;
-    // }
-    // .frameworks {
-    //     margin-top: 5%;
-    // }
-    // .devicons {
-    //     font-size: 4em;
-    // }
+@media (min-width: 990px) {
+   .col-md-4 {
+        padding-left: 0px;
+    }
 }
-
-// BACKUP ORIGINAL CSS
-
-// /* About */
-//     .about-me {
-//         display: flex;
-//         justify-content: space-around;
-//     }
-//     .about-me img {
-//         order: 2;
-//     }
-//     #thatsMe {
-//     width:150px;
-//     height: 150px;
-//     }
-//     .about-intro {
-//         text-align: left;
-//         font-size: 1.25em;
-//     }
-//     .frameworks {
-//         margin-top: 5%;
-//     }
-//     .devicons {
-//         font-size: 4em;
-//     }
-
-// /* Portfolio */
-
-// #portfolio li {
-//     list-style: none;
-//     margin: 10px 0px;
-// }
-
-// /* keep perspective of container */
-// .flip-container {
-//     perspective: 1000px;
-// }
-// .flip-container:hover .flipper, 
-// .flip-container.hover .flipper {
-//     transform: rotateY(180deg);
-// }
-// .flip-container, .card-front, .card-back {
-// 	width: 320px;
-// 	height: 170px;
-// }
-// .flipper {
-//     transition: 1.5s;
-//     transform-style: preserve-3d;
-//     position: relative;
-// }
-// /* hide back of pane during switch */
-// .card-front, .card-back {
-//     backface-visibility: hidden;
-//     position: absolute;
-//     top: 0;
-//     left: 0;
-// }
-// .card-front {
-//     z-index: 2;
-//     transform: rotateY(0deg);
-// }
-// .card-back {
-//     z-index: 2;
-//     transform: rotateY(180deg);
-// }
-
-// /* Contact */
-// .frameworks, 
-// #socialMedia {
-//     display: flex;
-//     justify-content: space-around;
-// }
-// #socialMedia a {
-//     color: #333;
-// }
