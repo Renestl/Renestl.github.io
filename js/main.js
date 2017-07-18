@@ -11,7 +11,7 @@ $(document).ready(function() {
 		});
 
 		var projectList = projects.map(function(val){
-			var content = `<div class="col-xs-12 col-sm-12 col-md-12">
+			var content = `<div class="col-xs-12 col-sm-6 col-md-4">
 								<li class="flip-container">
 									<div class="flipper">
 										<div class="card-front">
