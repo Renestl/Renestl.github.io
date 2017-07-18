@@ -22,7 +22,9 @@ $(document).ready(function() {
 										<div class="card-back">
 											<h3>${val.name}</h3>
 											<p class="projectGridText">${val.technology}</p>
-											<p class="projectGridText2">${val.website}</p>
+											<a href="${val.website}" target="_blank">
+												<p class="projectGridText2">${val.website}</p>
+											</a>
 										</div>
 									</div>
 								</li>
